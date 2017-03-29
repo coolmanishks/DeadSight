@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1065817830049",
+    "firebase_url": "https://deadsight-88828.firebaseio.com",
+    "project_id": "deadsight-88828",
+    "storage_bucket": "deadsight-88828.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1065817830049:android:4ce583f1c552edbb",
+        "android_client_info": {
+          "package_name": "com.subham.deadsight"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1065817830049-t0c8mqbbp85t1bu3tvptlb7p9sgtt5pj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.subham.deadsight",
+            "certificate_hash": "1493bd0e43e26057e710952d8db684e188ef1fa5"
+          }
+        },
+        {
+          "client_id": "1065817830049-2ev47d05f54g4rgjmahi1qsbo7m890os.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcj_1wMW3D_HUtivgITIqq4Ph_rH6VOUs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1065817830049-2ev47d05f54g4rgjmahi1qsbo7m890os.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
